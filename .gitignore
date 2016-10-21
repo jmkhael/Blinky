@@ -1,3 +1,6 @@
+.pioenvs/
+.piolibdeps/
+
 # Compiled Object files
 *.slo
 *.lo
